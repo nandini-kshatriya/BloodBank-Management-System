@@ -21,5 +21,5 @@ The Blood Bank Management System (BBMS) is a robust web-based application design
   
 ## Enhancements
 
-Maintained and enhanced by Nandini Kshatriya.
+Deployed and enhanced by Nandini Kshatriya.
 
