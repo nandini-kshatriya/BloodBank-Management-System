@@ -19,5 +19,7 @@ The Blood Bank Management System (BBMS) is a robust web-based application design
   - MySQL RDS for database management
   - EC2 instances for efficient processing
   
+## Enhancements
 
+Maintained and enhanced by Nandini Kshatriya.
 
